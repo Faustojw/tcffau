@@ -1,0 +1,7 @@
+{
+  "name": "FuelSoyo",
+  "description": "Sistema de monitoramento de disponibilidade de combustíveis na cidade do Soyo, Angola. Conecta motoristas, operadores de postos e administradores.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
